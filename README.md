@@ -41,5 +41,5 @@ Build a unified digital health infrastructure where a patient's entire medical h
 
 ---
 
-## 📁 Folder Structure
+
 
